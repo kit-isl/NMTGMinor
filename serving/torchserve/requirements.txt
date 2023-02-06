@@ -1,0 +1,5 @@
+subword-nmt
+sacremoses
+numpy
+#transformers
+#sentencepiece
